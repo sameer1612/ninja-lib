@@ -1,0 +1,12 @@
+/* styles.css */
+
+#ninja-notify {
+  color: cornflowerblue;
+  font-family: sans-serif;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  padding: 1em 2em;
+  border: 1px solid cornflowerblue;
+  border-radius: 0.5em;
+}

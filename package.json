@@ -1,0 +1,14 @@
+{
+  "name": "ninja-lib",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Library for finding real ninjas",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5",
+    "vite-plugin-css-injected-by-js": "^3.3.0"
+  }
+}
